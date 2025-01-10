@@ -7,8 +7,8 @@
 // @license      MIT
 // @homepage     https://github.com/or1n/YouTube-View-and-Duration-Filter
 // @supportURL   https://github.com/or1n/YouTube-View-and-Duration-Filter/issues
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/or1n/YouTube-View-and-Duration-Filter/main/YouTube%20View%20and%20Duration%20Filter.js
+// @downloadURL  https://raw.githubusercontent.com/or1n/YouTube-View-and-Duration-Filter/main/YouTube%20View%20and%20Duration%20Filter.js
 // @match        *://*.youtube.com/*
 // @match        http://*.youtube.com/*
 // @match        http://youtube.com/*
