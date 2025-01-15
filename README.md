@@ -11,6 +11,13 @@ This UserScript hides YouTube videos that have fewer views or are shorter than a
 - Works on various YouTube pages and sections.
 - Smooth transitions for hidden videos.
 
+With no filter:
+![YouTube-View-and-Duration-Filter(disabled)](https://github.com/user-attachments/assets/a6f371cb-d533-4e7b-9eff-ebd447b8ae90)
+
+With the filter:
+![YouTube-View-and-Duration-Filter(enabled)](https://github.com/user-attachments/assets/f2ee2390-79a2-425c-892e-f404053d9b69)
+
+
 ## Installation
 
 1. Install a UserScript manager extension for your browser (e.g., Violentmonkey, Tampermonkey, Greasemonkey).
